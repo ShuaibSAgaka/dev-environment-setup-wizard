@@ -1,6 +1,5 @@
 # ⚡ Dev Environment Setup Wizard
 
-> **Day 1 of 30** — [30-Day GitHub Build Roadmap]  
 > An interactive CLI tool that auto-configures **Node.js + npm** on **WSL/Ubuntu** with a beautiful Rich terminal UI.
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white)
